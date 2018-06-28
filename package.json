@@ -1,0 +1,23 @@
+{
+  "name": "stellar-demo",
+  "version": "1.0.0",
+  "description": "First shot at working with Stellar",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojones/stellar-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojones/stellar-demo/issues"
+  },
+  "homepage": "https://github.com/ojones/stellar-demo#readme",
+  "dependencies": {
+    "request": "^2.87.0",
+    "stellar-sdk": "^0.8.2"
+  }
+}
