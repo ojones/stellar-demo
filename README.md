@@ -44,3 +44,10 @@
     ```
 
 - Check second terminal window to view transaction from watching network.
+
+# Personal Note
+I was super excited to start playing with Stellar. It seems like such an amazing project from some smart people. Part of their selling point was ease of use. They provide an [online UI](https://www.stellar.org/laboratory/) to do all sorts of transactions.
+
+But if anything, the laboratory demonstrates how complicated Stellar is. Normal users cannot be expected to sign so many transactions just to trade a digital asset.
+
+Writing these scripts was a fun intro. My next goal would be to make a frontend client.
