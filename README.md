@@ -1,4 +1,4 @@
-> Scripts for getting started with Stellar blockchain
+> Scripts for getting started with Stellar blockchain.
 
 # Stellar Demo
 
@@ -36,8 +36,8 @@
 - Refer back to this terminal window to view any trasactions to this account.
 
 ## Send Lumen
-- Edit `scripts/sendDemo.js` to use `acct1`` secret key.
-- Also edit `scripts/sendDemo.js` to use `acct2`` public key.
+- Edit `scripts/sendDemo.js` to use `acct1` secret key.
+- Also edit `scripts/sendDemo.js` to use `acct2` public key.
 - Back in the original terminal window, send 10 Lumens from acct1 to acct2:
     ```
     node scripts/sendDemo.js
