@@ -1,16 +1,16 @@
+> Scripts for getting started with Stellar blockchain
+
 # Stellar Demo
-> Scripts for getting started with Stellar
+
+   * [Install](#install)
+   * [Run Scripts](#run-scripts)
+      * [Create Account](#create-account)
+      * [Watch Account](#watch-account)
+      * [Send Lumen](#send-lumen)
 
 # Install
 - Requires `node v10.1.0` and `npm 5.6.0`.
 
-- Clone this repo locally and change directories to run commands from `stellar-demo` directory:
-    ```
-    git clone ...
-    cd stellar-demo
-    ```
-
-- Install package dependencies:
     ```
     npm install
     ```
