@@ -1,7 +1,7 @@
 {
   "name": "stellar-demo",
   "version": "1.0.0",
-  "description": "First shot at working with Stellar",
+  "description": "Scripts for getting started with Stellar blockchain.",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
